@@ -1,0 +1,43 @@
+Spatial-temporal dynamics of the Gulf of Alaska derived from remotely sensed oceanographic data  
+ 
+Team leaders: TBD  
+ 
+As part of the Gulf of Alaska Expedition, our objective is to use satellite imagery to define the habitat condition in the Gulf of Alaska. Specifically, we will use imagery from Sentinel-3 (300 m spatial resolution) and VIIRS and MODIS-Aqua (1 km resolution) to derive chlorophyll concentration and phytoplankton groups (both as indicators of surface plankton dynamics and can indicate the transitional zone of chla front), SST (eddies) and PAR.  This data will be derived for 2018 (spring, summer, and fall) and 2019 (end of winter beginning of spring). 
+ 
+Task 1 – Satellite data compilation, validation, and cross-calibration of multi-satellite products – Chlorophyll and Phytoplankton groups; Task 2 – Gathering and processing in situ data for validation of satellite products and further spatial characterization of the Gulf of Alaska. 
+ 
+Data collection:  
+* in situ above water reflectance (end of Feb to middle of March due to solar elevation requirements >30 degrees at solar noon.) 
+* Water samples for HPLC chlorophyll and pigment analysis and microscopy. 
+ 
+ 
+Methods: 
+ 
+Measurements will be acquired between 11 a.m. and 2 p.m. to mimic time of most ocean colour satellite (MODIS-Aqua, VIIRS, Sentinel 3) acquisition and optimized sun illumination conditions. 
+ 
+Radiometry: We will set up a set of hyperspectral radiometers to measure sea surface radiance (LT(?)), sky radiance (Ls(?)), and total irradiance (Ed(?)). The sensors will be positioned to avoid ship shadows, spray, and sun glint. Specifically, LT(?) and Ls(?) at fixed viewing zenith angle, ?v = 40o, height that projects away from the ship to avoid shadow and spray, and viewing azimuth, ?v = 90o-135o from the solar azimuth, ?s, to avoid the effects of glint. To limit variability in the water-leaving radiance, radiometric measurements will be limited to solar zenith angle less than 60o. From these measurements, I derive remote sensing reflectance, Rrs(?), which are used to validate atmospheric correction of satellite imagery.  
+
+Water samples: Discrete water samples representing surface waters will be acquired (rosette CTD casts). Triplicate water samples will be stored in cold and dark conditions for a maximum of four hours following acquisition to minimize degradation of water constituents and potential composition changes before filtering for Chla and pigment analysis. To measure Chla and associated pigment concentrations, water samples will be filtered through 0.7 mm Whatman GF/F 47 mm filters and rinsed with 100mL of deionized (DI) water before being stored at -40oC. In the laboratory (UVic), samples will be extracted with 10 mL of 90% acetone solution under low light conditions, stored for 24 hat -4oC, and centrifuged to minimize cellular debris. A Dionex HPLC analyzer will be used to determine Chla and other pigment concentrations (only surface waters). Samples will also be collected and preserved (lugol) for microscope analysis (only surface waters). DOM samples will be analyzed a board with an Ocean optics spectrophotometry. 
+We will also use Ferry box measured data: subsurface (~5 m) salinity, temperature, fluorescence, oxygen and turbidity. (water samples will be used for determining Chla and total suspended matter concentrations). Chla, HPLC pigments and microscopy data will be used to validate satellite-derived products. 
+ 
+Storage: -40oC for filters in the ship 
+ 
+Potential outcomes: Spatial-temporal satellite-derived chlorophyll products and potentially dominant phytoplankton groups at both 1km (MODIS and VIIRS) and 300 m (Sentinel-3) spatial resolutions. We will also derive sea surface temperature and PAR products. 
+ 
+Data sharing opportunities: all collected data and processed satellite imagery will be shared among the groups involved in this project. 
+ 
+Equipment 
+Above water hyperspectral sensors; water filtration system. The sensors will be installed outside, hopefully at the bow of the ship. This will be the best location to avoid the ship superstructure and at the same time have a sensors-sun azimuth between 90-135 degrees (see figure above). The filtration system is a standard water filtration with a pump.  
+
+* Hyperspectral radiometers 
+* Rosette 
+* CTD 
+* 0.7 Whatman GF/F 47mm filters 
+* Deionized water 
+* 90% acetone solution 
+
+Onboard Infrastructure Requirements 
+* -4?C and -40?C freezers 
+ 
+The sensors and filtration system can be delivered as part of the Canadian group arrangement.  
+
